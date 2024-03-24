@@ -10,3 +10,8 @@ I made the notepad that can open and edit 5 documents using C.
 In case accessing the document that has no file or whose number is out of 5,  
 it asks to input the number of document again with a warning comment.
 
+<img src="./c_notepad/image-1.png" width="1000"/>
+<img src="./c_notepad/image-2.png" width="1000"/>
+<img src="./c_notepad/image-3.png" width="1000"/>
+<img src="./c_notepad/image-4.png" width="1000"/>
+<img src="./c_notepad/image-5.png" width="1000"/>
